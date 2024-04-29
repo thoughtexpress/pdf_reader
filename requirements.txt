@@ -1,0 +1,8 @@
+langchain
+OpenAI
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+pycryptodome==3.15.0
