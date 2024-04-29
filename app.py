@@ -22,10 +22,7 @@ with st.sidebar:
     - [OpenAI](https://platform.openai.com/docs/models) LLM model
  
     ''')
-    add_vertical_space(2)
-    st.write(' Why drown in papers when your chat buddy can give you the highlights and summary? Happy Reading. ')
-    add_vertical_space(2)    
-    st.write('Made by ***Sangita Pokhrel***')
+
 
 def main():
     load_dotenv()
